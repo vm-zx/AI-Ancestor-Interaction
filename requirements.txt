@@ -1,0 +1,8 @@
+gradio
+openai
+chromadb
+pymupdf
+python-dotenv
+
+# .venv/bin/python src/app/gradio_app.py
+
