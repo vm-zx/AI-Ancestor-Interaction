@@ -27,3 +27,19 @@ Run:
 python src/app/gradio_app.py
 
 --- Codes were generated with the use of Copilot
+
+
+# Design Flow
+Access & Consent
+        ↓
+Verification
+        ↓
+Visitor Welcome
+        ↓
+Conversation / Avatar
+        ↓
+End Visit
+        ↓
+Log Out
+        ↓
+Access & Consent
